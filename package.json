@@ -1,0 +1,24 @@
+{
+  "name": "degree-abbreviation-list",
+  "version": "1.0.0",
+  "description": "A list of degree abbreviations.",
+  "main": "degree-abbreviations.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sgvictorino/degree-abbreviation-list.git"
+  },
+  "keywords": [
+    "degree",
+    "major",
+    "school",
+    "professional",
+    "designations"
+  ],
+  "bugs": {
+    "url": "https://github.com/sgvictorino/degree-abbreviation-list/issues"
+  },
+  "homepage": "https://github.com/sgvictorino/degree-abbreviation-list#readme"
+}
